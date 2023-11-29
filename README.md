@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="[https://www.logodesign.net/images/tutorials/restaurent-logos/restaurant-logo-designer-needs.png](https://res.cloudinary.com/practicaldev/image/fetch/s--O2cjB-id--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png)" alt="Logo" width="80" height="80">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O2cjB-id--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Student Management Application Backend API with Relational Databases</h3>
