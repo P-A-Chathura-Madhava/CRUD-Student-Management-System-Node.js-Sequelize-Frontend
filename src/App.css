@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.save-student {
+  border: 2px solid black;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.input-field {
+  margin-bottom: 8px;
+  width: 80%;
+}
