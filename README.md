@@ -44,7 +44,7 @@ REST APIs based on CRUD methods. The project wrote in JavaScript using React and
 - JavaScript
 - React.js
 - Redux Toolkit
-- Sequelize
+- Axios
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
